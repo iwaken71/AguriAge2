@@ -1,6 +1,6 @@
 # AguriAge
 
-https://iwaken71.github.io/AguriAge/
+https://iwaken71.github.io/AguriAge2/
 
 にアクセスします。
 
